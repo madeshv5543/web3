@@ -15,7 +15,7 @@ which implements the [Generic JSON RPC](https://github.com/ethereum/wiki/wiki/JS
 
 You need to run a local Adhichain node to use this library.
 
-[Documentation](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+[Documentation](https://github.com/madeshv5543/web3-adhi/wiki/wiki/JavaScript-API)
 
 ## Installation
 
